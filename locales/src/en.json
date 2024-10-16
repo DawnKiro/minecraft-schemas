@@ -2684,6 +2684,7 @@
   "worldgen/density_function_type.terrain_shaper_spline": "Terrain shaper spline",
   "worldgen/density_function_type.weird_scaled_sampler": "Weird scaled sampler",
   "worldgen/density_function_type.y_clamped_gradient": "Y clamped gradient",
+  "worldgen/density_function_type.merp": "Merp",
   "worldgen/feature.bamboo": "Bamboo",
   "worldgen/feature.basalt_columns": "Basalt columns",
   "worldgen/feature.basalt_pillar": "Basalt pillar",

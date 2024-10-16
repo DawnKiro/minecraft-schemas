@@ -160,6 +160,12 @@ export function initDensityFunctionSchemas(schemas: SchemaRegistry, collections:
 				from_value: NoiseRange,
 				to_value: NoiseRange,
 			},
+			'minecraft:merp': {
+				argument: DensityFunction,
+			},
+			'more-dfs:ceil': {
+				argument: DensityFunction,
+			},
 		}
 	}, { context: 'density_function', disableSwitchContext: true }), {
 		default: () => ({
